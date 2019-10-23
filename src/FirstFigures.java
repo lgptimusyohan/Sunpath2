@@ -5,5 +5,8 @@ public class FirstFigures {
 
         x=1;
         x=x+3;
+
+        y=2;
+        y = y+2;
     }
 }
