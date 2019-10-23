@@ -3,8 +3,6 @@ public class FirstFigures {
 
         int x,y,z;//woohhhooo Master
 
-        x=1;
-        x=x+3;
 
         y=2;
         y = y+2;
