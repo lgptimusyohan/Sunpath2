@@ -1,7 +1,9 @@
 public class FirstFigures {
     public static void main(String[] args) {
 
-        int x,y,z;//woohhhooo Master
+        int y=0;//only Y over here
+
+        //one more addition
 
 
         //master updates
