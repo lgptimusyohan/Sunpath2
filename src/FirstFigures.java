@@ -4,7 +4,5 @@ public class FirstFigures {
         int x,y,z;//woohhhooo Master
 
 
-        y=2;
-        y = y+2;
     }
 }
