@@ -3,5 +3,7 @@ public class FirstFigures {
 
         int x,y,z;//
 
+        x=1;
+        x=x+3;
     }
 }
